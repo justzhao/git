@@ -6,3 +6,4 @@ this is push test
 
  hello master
 
+get bug
